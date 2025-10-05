@@ -285,7 +285,7 @@ Open to remote opportunities in:
 📧 [Email](mailto:vermamanoj1802@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/vermamanoj1802/)
 🐙 [GitHub](https://github.com/vermamanoj1802)  
-*📄 [Download Resume (YAML)](./resume.yaml)*
+#  📄 [Download Resume (YAML)](./resume.yaml)
 
 ---
 
